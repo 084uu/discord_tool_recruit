@@ -4,6 +4,8 @@ import re
 import datetime
 import asyncio
 
+# discord.py v 1.7.3
+
 intents = discord.Intents.default()
 intents.typing = False
 intents.presences = False
